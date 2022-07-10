@@ -1,0 +1,18 @@
+if game.PlaceId == 9976239895 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/UltimateHub/Gumball-Factory-Tycoon/main/UltimateHub"))()
+    
+    elseif game.PlaceId == 1 then
+    loadstring(game:HttpGet("link"))()
+    
+    elseif game.PlaceId == 1 then
+    loadstring(game:HttpGet("link"))()
+    
+    elseif game.PlaceId == 1 then
+    loadstring(game:HttpGet("link"))()
+    
+    elseif game.PlaceId == 1 then
+    loadstring(game:HttpGet("link"))()
+    
+    elseif game.PlaceId == 1 then
+    loadstring(game:HttpGet("link"))()
+end
